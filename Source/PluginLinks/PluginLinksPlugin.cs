@@ -19,7 +19,7 @@ namespace PluginLinks
                 Author = "nothingTVatYT",
                 AuthorUrl = null,
                 HomepageUrl = null,
-                RepositoryUrl = "https://github.com/FlaxEngine/PluginLinks",
+                RepositoryUrl = "https://github.com/nothingTVatYT/PluginLinks",
                 Description = "An experimental Flax plugin links list plugin",
                 Version = new Version(0, 1),
                 IsAlpha = false,
