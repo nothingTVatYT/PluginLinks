@@ -1,0 +1,28 @@
+﻿{
+	"Name": "PluginLinks",
+	"Version": "0.1",
+	"Company": "nothingTVatYT",
+	"Copyright": "",
+	"GameTarget": "PluginLinksTarget",
+	"EditorTarget": "PluginLinksEditorTarget",
+	"References": [
+		{
+			"Name": "$(EnginePath)/Flax.flaxproj"
+		}
+	],
+	"DefaultScene": null,
+	"DefaultSceneSpawn": {
+		"Position": {
+			"X": 0.0,
+			"Y": 0.0,
+			"Z": 0.0
+		},
+		"Direction": {
+			"X": 0.0,
+			"Y": 0.0,
+			"Z": 0.0
+		}
+	},
+	"MinEngineVersion": "0.0.6167",
+	"EngineNickname": null
+}
