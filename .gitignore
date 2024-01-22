@@ -5,6 +5,7 @@ Logs/
 Output/
 Screenshots/
 *.HotReload.*
+Source/*.Gen.*
 
 # Ignore Visual Studio project files (generated locally)
 *.csproj
