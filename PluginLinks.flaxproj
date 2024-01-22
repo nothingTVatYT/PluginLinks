@@ -2,7 +2,7 @@
 	"Name": "PluginLinks",
 	"Version": "0.1",
 	"Company": "nothingTVatYT",
-	"Copyright": "",
+	"Copyright": "MIT License",
 	"GameTarget": "PluginLinksTarget",
 	"EditorTarget": "PluginLinksEditorTarget",
 	"References": [

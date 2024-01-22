@@ -15,15 +15,15 @@ namespace PluginLinks
             _description = new PluginDescription
             {
                 Name = "PluginLinks",
-                Category = "Other",
+                Category = "Utility",
                 Author = "nothingTVatYT",
                 AuthorUrl = null,
                 HomepageUrl = null,
                 RepositoryUrl = "https://github.com/FlaxEngine/PluginLinks",
-                Description = "This is an example plugin project.",
+                Description = "An experimental Flax plugin links list plugin",
                 Version = new Version(0, 1),
                 IsAlpha = false,
-                IsBeta = false,
+                IsBeta = true,
             };
         }
 
